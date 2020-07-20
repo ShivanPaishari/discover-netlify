@@ -8,4 +8,6 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://thirsty-euclid-c93f76.netlify.app/]()
+* Link to the website deployed on Netlify : https://thirsty-euclid-c93f76.netlify.app
+
+
